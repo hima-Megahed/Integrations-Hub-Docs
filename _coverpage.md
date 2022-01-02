@@ -2,10 +2,11 @@
 
 # Integrations Hub Docs <small>1.0.0</small>
 
-> A magical documentation site generator.
+> A straightforward user-friendly documentation.
+
 - Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Updated continuously with every Minor.Major.Revision
+- Works with low-bandwidth
 
 [GitHub](https://github.com/getopenwater/OpenWater.Integrations.Hub)
 [Getting Started](#openwater-integrations-hub)
