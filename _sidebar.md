@@ -1,3 +1,5 @@
+- [__Getting Started__](/)
+
 - __Salesforce__
   - Single Sign On
     - [SAML](Providers/Salesforce/SingleSignOn/saml-single-sign-on.md)
