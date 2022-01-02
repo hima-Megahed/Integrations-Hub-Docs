@@ -5,7 +5,7 @@
 > A straightforward user-friendly documentation.
 
 - Simple and lightweight
-- Updated continuously with every Minor.Major.Revision
+- Updated continuously with every Minor.Major.Revision change
 - Works with low-bandwidth
 
 [GitHub](https://github.com/getopenwater/OpenWater.Integrations.Hub)
